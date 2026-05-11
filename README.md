@@ -42,7 +42,7 @@ NEU-DET_YOLO/
 ## 🛠️ 环境要求
 
 - Python 3.8+
-- PyTorch 1.10+ (推荐 CUDA 支持)
+- PyTorch 1.10+
 - 其他依赖可通过以下命令安装：
 
 ```bash
